@@ -1,5 +1,29 @@
 # LITA_Class_HR_Data
 
+
+## TABLE OF CONTENT
+
+[Project Overview](#project-overview)
+
+[ Project Scope](#project-scope)
+
+[ Data Sources](#data-sources)
+
+[Key Metrics and Analysis](#key-metrics-and-analysis)
+
+[Methodology](#methodology)
+
+[Data Cleaning And Preparation](#data-cleaning-and-preparation)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Visualization](#visualization)
+
+[Reporting and Insights Generation](#reporting-and-insights-generation)
+
+
+
+
 ## Project Overview
 
 The main goal of the HR Data Analytics project is to leverage employee-related data to drive strategic HR decisions, enhance workforce efficiency, and improve overall employee satisfaction and retention. 
@@ -50,15 +74,11 @@ The project focuses on:
 
 ## Methodology
 
-### Data Cleaning & Preparation
+### Data Cleaning And Preparation
 Prepare data by addressing missing values, formatting inconsistencies.
      
-###  Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis 
 Perform preliminary analysis to discover patterns, outliers, and relationships in the data.
-
-
-### Data Modeling
-Use statistical and machine learning models to predict employee attrition, forecast workforce needs, and identify factors influencing engagement.
 
 ### Visualization
 Create dashboards and visualizations for HR leaders to monitor trends and metrics.
