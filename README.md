@@ -65,6 +65,7 @@ Create dashboards and visualizations for HR leaders to monitor trends and metric
 
 ![image](https://github.com/user-attachments/assets/8d00eb7c-652a-4a6d-bde4-968256409707)
 
+![image](https://github.com/user-attachments/assets/93d9627d-affc-4702-bdfa-26b6d605da02)
 
 ### Reporting and Insights Generation
 Summarize findings, actionable insights, and recommendations based on analysis.
